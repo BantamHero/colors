@@ -1,0 +1,31 @@
+h1 {
+    background-color: black;
+    font-family:cursive 
+}
+
+.my {
+    color: white;
+}
+
+.cloud {
+    color: cyan;
+}
+
+h2 {
+    background-color: rebeccapurple
+}
+
+.proj {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-family: cursive;
+}
+
+.contact {
+    background-color: lightblue;
+    color: black;
+    text-align: right;
+    text-decoration: underline;
+    font-family:cursive
+}
